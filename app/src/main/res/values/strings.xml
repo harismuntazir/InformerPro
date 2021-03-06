@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Informer Pro</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Informer Pro</string>
+    <string name="nav_header_subtitle">haris.0813.m@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Informer</string>
+    <string name="menu_gallery">Settings</string>
+    <string name="menu_slideshow">About</string>
+    <string name="reportid_108"><![CDATA[&reportid=101]]></string>
+    <string name="download">Download</string>
+    <string name="aspx">.aspx</string>
+    <string name="mainurlhint">https://egov.uok.edu.in/CollegeAdm/AdmDetails/showreports.aspx?rrid=</string>
+    <string name="batch"><![CDATA[1&courseyear=1&UID=]]></string>
+</resources>
