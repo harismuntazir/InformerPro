@@ -46,7 +46,7 @@
         android:inputType="textPersonName"
         android:selectAllOnFocus="true"
         android:shadowColor="#9C27B0"
-        android:text="2020"
+        android:text="2021"
         android:textColor="#000B47"
         android:textSize="18sp"
         app:layout_constraintBottom_toTopOf="@+id/midUrl"
